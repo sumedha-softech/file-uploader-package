@@ -1,6 +1,12 @@
 {
   "name": "file-uploader-plugin",
-  "version": "2.5.0",
+  "version": "2.7.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumedha-softech/file-uploader-package.git"
+  },
+  "homepage": "https://github.com/sumedha-softech/file-uploader-package#readme",
+  "keywords": ["react", "typescript", "Sumedha Softech Pvt. Ltd.", "component-library"],
   "description": "This plugin allows you to upload, preview, and delete files. You can upload files by dragging and dropping them or by using the file selector.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -13,6 +19,7 @@
     "build": "npm run clean && rollup -c"
   },
   "author": "Aman Sharma",
+  "company": "Sumedha Softech Pvt. Ltd.",
   "license": "ISC",
   "dependencies": {
     "react": "^19.1.0",

@@ -61,7 +61,7 @@ To publish a new version of the plugin:
 1. Update the version number in `package.json`:
 
     ```sh
-   version: "2.5.0"     // ← Update this before publishing
+   version: "2.7.0"     // ← Update this before publishing
    ```
 
 2. Build and publish:
@@ -114,8 +114,9 @@ To test this plugin inside your [`Example Project`](Example%20Project) without p
 
 ## License
 
-This project and the file-uploader-plugin are licensed under the ISC License.
+© 2025 **Sumedha Softech Pvt. Ltd.** All rights reserved.
 
 ---
 
 **Author:** Aman Sharma
+**Orgination:** Sumedha Softech Pvt. Ltd.
