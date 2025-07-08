@@ -5,7 +5,7 @@ This is a reusable, modern React + TypeScript file uploader component designed t
 ## 📺 Project Demo
 
 - **Full Project Overview:**  
-  ![Currency Project](./doc/file-uploader-package.gif)
+  ![File Uploader Package Project](./doc/file-uploader-package.gif)
    [Watch Preview](./doc/file-uploader-package.mp4)
 
 ## Features
