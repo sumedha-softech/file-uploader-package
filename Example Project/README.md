@@ -2,6 +2,11 @@
 
 This project is a modern React + TypeScript application bootstrapped with Vite. It demonstrates the use of a custom file uploader component, allowing users to upload, preview, and delete files with a user-friendly interface.
 
+## 📺 Project Demo Videos
+
+- **Full Project Overview:**  
+  [Watch Example Project.mp4](./media/File%20Uploader%20Package.mp4)
+
 ## Features
 
 - Drag & drop file upload and file selector support
