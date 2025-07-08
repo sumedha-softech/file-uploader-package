@@ -2,10 +2,11 @@
 
 This is a reusable, modern React + TypeScript file uploader component designed to be bundled as an npm package. It enables users to upload, preview, and delete files through an intuitive, accessible interface.
 
-## 📺 Project Demo Videos
+## 📺 Project Demo
 
 - **Full Project Overview:**  
-  [Watch Example Project.mp4](./Example%20Project/media/File%20Uploader%20Package.mp4)
+  ![Currency Project](./doc/file-uploader-package.gif)
+   [Watch Preview](./doc/file-uploader-package.mp4)
 
 ## Features
 
