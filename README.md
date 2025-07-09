@@ -7,7 +7,7 @@ This is a reusable, modern React + TypeScript file uploader component designed t
 
 - **Full Project Overview:**  
   ![File Uploader Package Project](./doc/file-uploader-package.gif)
-   [Watch Preview](./doc/file-uploader-package.mp4)
+   [Watch Preview](https://raw.githubusercontent.com/sumedha-softech/file-uploader-package/doc/file-uploader-package.mp4)
 
 ## Features
 
