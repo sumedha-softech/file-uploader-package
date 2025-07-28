@@ -1,6 +1,6 @@
 {
-  "name": "file-uploader-plugin",
-  "version": "2.7.0",
+  "name": "@sumedha_softech/file-uploader",
+  "version": "2.9.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/sumedha-softech/file-uploader-package.git"
